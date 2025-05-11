@@ -20,7 +20,7 @@ Program to traverse graph using BFS
 Developed by: Krishna Prasad S
 RegisterNumber: 21222320108
 ```
-```
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
