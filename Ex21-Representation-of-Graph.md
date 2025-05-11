@@ -19,7 +19,7 @@ Program to display the adjacency matrix of the given graph
 Developed by: Krishna Prasad S
 RegisterNumber: 212223230108
 ```
-```
+```c
 
 #include <stdio.h>
 
