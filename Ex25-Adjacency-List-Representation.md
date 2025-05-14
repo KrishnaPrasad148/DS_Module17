@@ -11,7 +11,6 @@ To write a C program to represent the given graph using the adjacency list.
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
 Developed by: Krishna Prasad S
 RegisterNumber:  212223230108
